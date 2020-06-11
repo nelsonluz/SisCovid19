@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.cabecalho {
+  background-color: #F2F3F4;
+
+}
+.items {
+  background-color: #D1F2EB;
+}
+.tabela {
+  background-color: #C0C0C0;
+}

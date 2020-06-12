@@ -39,7 +39,7 @@ class ItemService {
     console.log("ItemService.getItem():");
     console.log("Item: " + itemLink);
     this.items.forEach(item => {
-        if (item['link'] == itemLink) {
+        if (item['link'] === itemLink) {
             console.log(item)
         }
     })
